@@ -1,0 +1,41 @@
+body{background: #904C77;}
+
+.button{
+  display: flex;
+  padding: 20px;
+  padding-bottom:10px;
+  margin: 20px;
+  margin-bottom: 10px;
+  justify-content: center;
+  
+}
+button {
+  margin-right: 10px;
+  height: 70px;
+  width: 70px;
+  border-radius: 20px;
+  border: dotted #81223F;
+  font-weight: bold;
+}
+#red{
+  background-color: #E49AB0;
+}
+
+#yellow{
+  background-color: #ECB8A5;
+}
+
+#green{
+  background-color: #ECCFC3;
+}
+
+.result{
+  display: flex;
+  justify-content: center;
+  
+}
+
+#submit{
+  width:80px;
+  height: 30px;
+}
