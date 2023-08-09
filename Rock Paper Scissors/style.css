@@ -29,10 +29,11 @@ button {
   background-color: #ECCFC3;
 }
 
-.result{
-  display: flex;
+.resultContainer{
+  display:flex;
+  align-items: center;
+  flex-direction: column;
   justify-content: center;
-  
 }
 
 #submit{
